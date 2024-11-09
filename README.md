@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsabagh</h1>
 <h3 align="center">Android Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelsabagh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsabagh" /> </p>
-
 - 💬 Ask me about **Android with Kotlin**
 
 - 📫 How to reach me **elsabagha025@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelsabagh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsabagh" /> </p>
   
 ![](https://github-readme-stats.vercel.app/api?username=elsabagh&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
